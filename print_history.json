@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "timestamp": "2026-02-05T21:35:36.0808048+08:00",
+      "file_name": "test.pdf",
+      "printer": "MP230",
+      "pages": 3,
+      "copies": 1,
+      "total_pages": 3,
+      "paper_size": "a4",
+      "color_mode": "color",
+      "double_sided": false,
+      "status": "success"
+    }
+  ],
+  "total_pages": 3,
+  "total_jobs": 1
+}
